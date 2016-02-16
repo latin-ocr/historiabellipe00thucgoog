@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiabellipe00thucgoog/historiabellipe00thucgoog_0009.png"; bbox 0 0 3676 5828; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 549 2194 1357 2241">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 549 2194 1357 2241">
+     <span class='ocr_line' id='line_1_1' title="bbox 549 2194 1357 2241; baseline -0.001 -7"><span class='ocrx_word' id='word_1_1' title='bbox 549 2198 680 2236; x_wconf 60' lang='lat' dir='ltr'>mususe</span> <span class='ocrx_word' id='word_1_2' title='bbox 690 2197 845 2235; x_wconf 66' lang='lat' dir='ltr'><strong>neumam</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 856 2198 938 2233; x_wconf 68' lang='lat' dir='ltr'><strong>nuum</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 952 2198 1023 2233; x_wconf 74' lang='grc' dir='ltr'>ΜΒΟΤ</span> <span class='ocrx_word' id='word_1_5' title='bbox 1037 2198 1157 2241; x_wconf 63' lang='lat' dir='ltr'><strong>rumas,</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1171 2197 1211 2233; x_wconf 75' lang='lat' dir='ltr'><strong>vu</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 1225 2194 1309 2241; x_wconf 70' lang='lat' dir='ltr'>neon.</span> <span class='ocrx_word' id='word_1_8' title='bbox 1323 2196 1357 2233; x_wconf 68' lang='lat' dir='ltr'><strong>w-</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1842 5828">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1842 5828">
+     <span class='ocr_line' id='line_1_2' title="bbox 0 0 1842 5828; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1842 5828; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
